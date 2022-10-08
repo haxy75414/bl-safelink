@@ -1,7 +1,5 @@
 {
     "username": "haxeye",
     "plan": "basic",
-    "month": 1,
-    "paid": true,
-    "string": "Hello World"
+    "month": 1
 }
